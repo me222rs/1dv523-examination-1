@@ -1,0 +1,27 @@
+{
+  "name": "me222rs-examination-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1dv523/me222rs-examination-1.git"
+  },
+  "author": "Mikael Edberg (me222rs)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1dv523/me222rs-examination-1/issues"
+  },
+  "homepage": "https://github.com/1dv523/me222rs-examination-1#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "express": "^4.14.0",
+    "promise": "^7.1.1",
+    "request": "^2.78.0",
+    "request-promise": "^4.1.1",
+    "url": "^0.11.0"
+  }
+}
